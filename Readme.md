@@ -1,3 +1,5 @@
 # Controle de Versão com o Git
 
-Exercício de criação de repo
+## Introdução
+
+Como criar um repositório no Git
